@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/FDOpenCVDeepLearningTutorial.iml" filepath="$PROJECT_DIR$/.idea/FDOpenCVDeepLearningTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ComputerVisionPractice.iml" filepath="$PROJECT_DIR$/.idea/ComputerVisionPractice.iml" />
     </modules>
   </component>
 </project>
